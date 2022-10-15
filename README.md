@@ -17,6 +17,7 @@ en ANSI-C, de ficheros y estructuras para
 colocar datos.
 
 Este ejemplo consta de dos programas:
+-------------------------------------
 "Escritura_Registros.c"
 --------------------------
 "Lectura_Registros.c"
