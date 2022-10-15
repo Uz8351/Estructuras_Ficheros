@@ -17,9 +17,10 @@ en ANSI-C, de ficheros y estructuras para
 colocar datos.
 
 Este ejemplo consta de dos programas:
-Escritura_Registros.c
-Lectura_Registros.c
-
+"Escritura_Registros.c"
+--------------------------
+"Lectura_Registros.c"
+------------------------
 El primero:"Escritura_Registros.c", abre 
 un fichero de texto indicado.
 -Por ejemplo: entrada-
@@ -39,7 +40,7 @@ COMPILACIÓN:
 gcc -Wall -Werror -o  Escritura_Registros Escritura_Registros.c
 --------------------------------------------------------------------------
 gcc -Wall -Werror  -o Lectura_Registros Lectura_Registros.c
-
+---------------------------------------------------------------
 ------------------------------------------------------------
 EJECUCIÓN:
 --------------------------------------------------
