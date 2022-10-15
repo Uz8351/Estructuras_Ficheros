@@ -36,13 +36,14 @@ Se puede jugar con estos sencillos programas.
 **************************************************************
 COMPILACIÓN:
 gcc -Wall -Werror -o  Escritura_Registros Escritura_Registros.c
+--------------------------------------------------------------------------
 gcc -Wall -Werror  -o Lectura_Registros Lectura_Registros.c
 
 ------------------------------------------------------------
 EJECUCIÓN:
-
+--------------------------------------------------
 ./Escritura_Registros
-
+--------------------------------------------------------
 ./Lectura_Registros 
 ----------------------------------------------------------
 
