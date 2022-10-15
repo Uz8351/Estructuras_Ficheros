@@ -8,7 +8,9 @@
 ---------------------------------------------
 Este programa fue realizado en una plataforma
 LINUX Ubuntu 20.04.4 LTS.
+------------------------
 Bajo el standard ANSI-C,
+--------------------------
  
 -------------------------------------------
 
